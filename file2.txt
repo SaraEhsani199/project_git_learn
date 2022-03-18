@@ -1,8 +1,7 @@
 khate1 edite
-khate2 22222
 khate3
 khate5
-khate
+khate  6
 khate7
 khate8 8888
 khate9
@@ -13,7 +12,7 @@ khate12 121212
 khate13 13131313
 khate14
 khate15
-khate16
-khate17
+khate16  1616161616
+khate17  171717171717
 khate18
 khate19
