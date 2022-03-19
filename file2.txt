@@ -1,11 +1,10 @@
 khate1 edite
 khate3
 khate5
-khate  6
 khate7
 khate8 8888
 khate9
-khate10
+khate10 edited
 
 khate11
 khate12 121212
@@ -16,3 +15,4 @@ khate16  1616161616
 khate17  171717171717
 khate18
 khate19
+khate 20
