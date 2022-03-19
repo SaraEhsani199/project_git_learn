@@ -5,7 +5,7 @@ line8
 line7
 
 line 7
-line 6
+line 6 edited again
 
 line5
 line4
@@ -16,5 +16,4 @@ line 1 new edited
 
 
 this line is new
-this line is new again
 this line is new again and again   
