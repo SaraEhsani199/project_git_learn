@@ -1,7 +1,7 @@
 line1 edited
 line2 edited
 line3 edited
-line4
+line4 edited
 line5
 line6
 line7
