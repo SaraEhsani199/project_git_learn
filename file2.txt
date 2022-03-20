@@ -1,7 +1,7 @@
 khate1 edite
 khate3
 khate5
-khate7
+khate7       #this is new commit again
 khate8
 khate9
 khate10 edited
